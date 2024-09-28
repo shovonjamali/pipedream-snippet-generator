@@ -14,3 +14,11 @@ Please note that, this tool does not generate complete code but rather provides 
 - **Customizable Event Data**: Define body and header data for triggers, which will be included in the generated snippet.
 - **Snippet Generation**: Automatically generate a complete JavaScript snippet ready to be copied and used in Pipedream.
 - **Snippet Conversion**: Transform the written code into a format that is compatible for use in Pipedream.
+
+## Live Application
+
+You can access the hosted Pipedream Snippet Generator application here:
+
+[Pipedream Snippet Generator - Live Demo](https://shovonjamali.github.io/pipedream-snippet-generator/)
+
+Feel free to explore and use the tool to create and manage your Pipedream code snippets easily.
