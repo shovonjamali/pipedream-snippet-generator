@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pipedream-snippet-generator/static/css/main.9d75a6d6.css",
+    "main.js": "/pipedream-snippet-generator/static/js/main.62a01892.js",
+    "static/js/453.25c3e96d.chunk.js": "/pipedream-snippet-generator/static/js/453.25c3e96d.chunk.js",
+    "index.html": "/pipedream-snippet-generator/index.html",
+    "main.9d75a6d6.css.map": "/pipedream-snippet-generator/static/css/main.9d75a6d6.css.map",
+    "main.62a01892.js.map": "/pipedream-snippet-generator/static/js/main.62a01892.js.map",
+    "453.25c3e96d.chunk.js.map": "/pipedream-snippet-generator/static/js/453.25c3e96d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d75a6d6.css",
+    "static/js/main.62a01892.js"
+  ]
+}
